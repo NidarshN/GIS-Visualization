@@ -1,4 +1,4 @@
-# OpenSteetMap(OSM) Visualisation using Python
+# OpenStreetMap(OSM) Visualisation using Python
 
 A street route visualisation using OSM data using python for the following cities:  
 
